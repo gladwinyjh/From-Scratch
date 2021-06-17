@@ -1,6 +1,6 @@
-.bin/
-.include/
-.lib64/
+bin/*
+include/*
+lib64/*
 
 #Virtual env
 .from-scratch/
