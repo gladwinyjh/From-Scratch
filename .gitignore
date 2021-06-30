@@ -1,6 +1,7 @@
 bin
 lib64
 *.cfg
+.ipynb_checkpoints
 
 #Virtual env
 .from-scratch/
