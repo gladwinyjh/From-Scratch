@@ -7,5 +7,6 @@ Topics Covered thus far:
 - Linear Regression
     ![Linear Regression](img/LinearRegression.gif)
 
+
 - Logistic Regression
 - K-nearest neighbors
