@@ -5,7 +5,7 @@ Github notebook viewer is not alway too kind with math equations, so it is best 
 
 Topics Covered thus far:
 - Linear Regression
-    <img src="img/LinearRegression.gif" width="250" height="250"/>
+    ![Linear Regression]('img/LinearRegression.gif')
 
 - Logistic Regression
 - K-nearest neighbors
