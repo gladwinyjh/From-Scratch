@@ -9,4 +9,11 @@ Topics Covered thus far:
     ![Linear Regression](img/LinearRegression.gif)
 
 - Logistic Regression
+
+    ![Logistic Regression](img/LogisticRegression.png)
+
 - K-nearest neighbors
+
+    ![KNN](img/kNN.png)
+
+- Perceptron
