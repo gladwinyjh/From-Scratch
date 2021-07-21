@@ -1,19 +1,24 @@
 # ML-Basics
-ML algorithms from scratch (well not really from scratch) to strengthen understanding of concepts.
+ML algorithms mostly from scratch to strengthen my understanding of concepts.
+
+Notes + Implementation (code) of ML concepts learned from Dr. Kilian Weinberger and others from books and the web.
 
 Github notebook viewer is not always too kind with math equations, so it is best viewed with an alternative notebook viewer, like [nbviewer](https://nbviewer.jupyter.org/).
 
-Topics Covered thus far:
-- Linear Regression
+## Topics Covered thus far
+### Linear Regression
 
-    ![Linear Regression](img/LinearRegression.gif)
+<img src="img/LinearRegression.gif" alt="Linear Regression" width="650"/>
+<br>
 
-- Logistic Regression
+### Logistic Regression
 
-    ![Logistic Regression](img/LogisticRegression.png)
+<img src="img/LogisticRegression.png" alt="Logistic Regression" width="650"/>
+<br>
 
-- K-nearest neighbors
+### K-nearest neighbors
 
-    ![KNN](img/kNN.png)
+<img src="img/kNN.png" alt="KNN" width="650"/>
+<br>
 
-- Perceptron
+### Perceptron
