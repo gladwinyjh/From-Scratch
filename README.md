@@ -25,3 +25,8 @@ Github notebook viewer is not always too kind with math equations, so it is best
 
 <img src="img/Perceptron.gif" alt="Perceptron" width="650"/>
 <br>
+
+### Naive Bayes
+
+<img src="img/GaussianNaiveBayes.png" alt="Gaussian Naive Bayes" width="650"/>
+<br>
