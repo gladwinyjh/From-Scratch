@@ -22,3 +22,6 @@ Github notebook viewer is not always too kind with math equations, so it is best
 <br>
 
 ### Perceptron
+
+<img src="img/Perceptron.gif" alt="Perceptron" width="650"/>
+<br>
