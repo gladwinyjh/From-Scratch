@@ -33,6 +33,6 @@ Github notebook viewer is not always too kind with math equations, so it is best
 
 ### Support Vector Machines
 
-<img src="img/SVM_DifferentC.png" alt="Soft Margin SVM" width="475" height="500"/> <img src="img/SVM_RBF.png" alt="Soft Margin SVM RBF" width="475" height="500"/>
+<img src="img/SVM_DifferentC.png" alt="Soft Margin SVM" width="450" height="450"/> <img src="img/SVM_RBF.png" alt="Soft Margin SVM RBF" width="450" height="450"/>
 
 <br>
