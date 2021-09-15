@@ -33,8 +33,8 @@ Github notebook viewer is not always too kind with math equations, so it is best
 
 ### Support Vector Machines
 
-<img src="img/SVM_DifferentC.png" alt="Soft Margin SVM" width="550" height="550"/> 
-<img src="img/SVM_RBF.png" alt="Soft Margin SVM RBF" width="550" height="550"/>
+<img src="img/SVM_DifferentC.png" alt="Soft Margin SVM" width="550"/> 
+<img src="img/SVM_RBF.png" alt="Soft Margin SVM RBF" width="550"/>
 <br>
 
 ### Feed Forward Neural Network
