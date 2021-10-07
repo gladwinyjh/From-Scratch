@@ -37,7 +37,7 @@ Github notebook viewer is not always too kind with math equations, so it is best
 <img src="img/SVM_RBF.png" alt="Soft Margin SVM RBF" width="550"/>
 <br>
 
-### Decision Trees / CART Trees
+### Decision Trees / CART
 <img src="img/cls_tree.png" alt="Classification Tree" width="550"/> 
 <img src="img/reg_tree.png" alt="Regression Tree" width="550" height="350"/>
 <br>
